@@ -1,0 +1,23 @@
+.FlexContainerMenu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+li{
+    list-style-type: none;
+    margin: 5px;
+    width: 100px;
+    height: 50px;
+    border: white 3px solid;
+    background-color: grey;
+}
+
+body{
+    background-color: black;
+}
+
+a{
+ color: white;
+}
