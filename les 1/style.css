@@ -5,12 +5,30 @@
     margin: 0 auto;
 }
 
+.OverMijContainer{
+    display:flex;
+    width: 50%;
+    height: 300px;
+    background-color: grey;
+    border: white solid 3px;
+    justify-content: center;
+}
+
+.OverMijFoto{
+    height: 150px;
+    width: 100px;
+    justify-content: center;
+    margin: 0 auto;
+}
+
 li{
     list-style-type: none;
     margin: 5px;
     width: 100px;
     height: 50px;
     border: white 3px solid;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
     background-color: grey;
     text-align: center;
     vertical-align: middle;
