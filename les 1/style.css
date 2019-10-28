@@ -12,6 +12,9 @@ li{
     height: 50px;
     border: white 3px solid;
     background-color: grey;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;     
 }
 
 body{
